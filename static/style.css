@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+tr.critical {
+    background-color: #f8d7da;
+}
+
+tr.critical td {
+    color: #721c24;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+form label {
+    margin-right: 10px;
+}
+
+form input, form select {
+    padding: 5px;
+    margin-right: 10px;
+}

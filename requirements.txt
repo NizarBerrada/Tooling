@@ -1,0 +1,7 @@
+certstream
+Levenshtein
+requests
+python-dotenv
+tqdm
+flask
+flask_socketio
